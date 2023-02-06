@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quietquitreact-dev-11537-authRole",
+      "UnauthRoleArn": "arn:aws:iam::615183033551:role/amplify-quietquitreact-dev-11537-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::615183033551:role/amplify-quietquitreact-dev-11537-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-quietquitreact-dev-11537-deployment",
+      "UnauthRoleName": "amplify-quietquitreact-dev-11537-unauthRole",
+      "StackName": "amplify-quietquitreact-dev-11537",
+      "StackId": "arn:aws:cloudformation:us-east-1:615183033551:stack/amplify-quietquitreact-dev-11537/ad0679d0-a5e5-11ed-a1c4-0e95f79b1b65",
+      "AmplifyAppId": "dj2yh2bg3ns6d"
+    },
+    "categories": {
+      "api": {
+        "quietquitreact": {}
+      },
+      "auth": {
+        "quietquitreact3cccc721": {}
+      }
+    }
+  }
+}
